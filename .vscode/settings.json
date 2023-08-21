@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 18,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "editor.autoClosingBrackets": "never",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on"
+}
